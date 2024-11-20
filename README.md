@@ -1,6 +1,3 @@
-
-For **Timo Front-End**:  
-```markdown
 # Timo E-Commerce Platform
 
 Timo E-Commerce is a multilingual, scalable platform designed for seamless shopping experiences. Developed using Test-Driven Development (TDD) practices, it supports robust eCommerce features and internationalization.
